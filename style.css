@@ -1,0 +1,21 @@
+h2{
+    text-align: center;
+    margin: 20px 0px 50px;
+}
+#files {
+    position: absolute;
+}
+
+#add {
+    display: none;
+}
+#save {
+    display:none;
+}
+.variables {
+    height:500px;
+    margin-left:30px;
+    text-align:center;
+    font-weight:bold;
+
+}
